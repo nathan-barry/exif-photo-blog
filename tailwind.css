@@ -170,7 +170,7 @@ html {
 /* Background */
 @utility bg-main {
   @apply
-    bg-white dark:bg-black
+    bg-white dark:bg-[#141414]
 }
 @utility bg-medium {
   @apply
