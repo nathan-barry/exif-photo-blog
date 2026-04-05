@@ -111,7 +111,7 @@ export default function NavClient({
                     'hidden sm:block truncate overflow-hidden',
                     'leading-tight text-dim',
                   )}>
-                    {navCaption}
+                    Photography by <a href="https://nathan.rs" target="_blank" rel="noopener noreferrer">Nathan Barry</a>
                   </div>}
               </div>
             </nav>]
